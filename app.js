@@ -1,1 +1,1 @@
-Texto HTML
+console.log('Hola mundo');
